@@ -1,0 +1,21 @@
+.hero {
+    background-image: url("https://user-images.githubusercontent.com/70443846/120035487-8bc61d80-bfb3-11eb-8bcb-b9bcae90c6f5.jpg");
+    background-color: #EDEDF6;
+    height: 20vw;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    position: relative;
+}
+
+.subtitle h3 {
+    background-color: #CCCCFF;
+    padding: 1vw;
+    color: #31343D;
+    font-size: 200%;
+    font-weight: bold;
+    display: inline-block;
+    position: absolute;
+    left: 10vw;
+    top: 10vw;
+} 

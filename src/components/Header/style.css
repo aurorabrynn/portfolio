@@ -1,0 +1,27 @@
+nav {
+    background-color: #31343D;
+    width: 100%;
+}
+
+nav h1 {
+    background-color: #CCCCFF;
+    color: #31343D;
+    font-size: 300%;
+    padding: 0.26vw 0.26vw 0.26vw 2.6vw;
+    margin: 0.26vw 0 0.52vw 0;
+}
+
+nav ul {
+    list-style: none;
+    font-size: 125%;
+    margin-right: 3.9vw;
+}
+
+nav a {
+    display: block;
+    padding: 0.42vw;
+    margin: 0.26vw;
+    text-decoration: none;
+    color: #CCCCFF;
+    border-bottom: 5px solid #CCCCFF;
+}

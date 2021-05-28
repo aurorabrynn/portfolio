@@ -1,0 +1,344 @@
+:root {
+    --lightpurp: #CCCCFF;
+    --darkpurp: #20012e;
+    --grey: #31343D;
+    --lightgrey: #6d6d80;
+    --offwhite: #EDEDF6;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', sans-serif;
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+}
+
+body {
+    background-color: var(--offwhite);
+}
+
+/*nav bar*/
+
+nav h1 {
+    background-color: var(--lightpurp);
+    color: var(--grey);
+    font-size: 300%;
+    padding: 0.26vw 0.26vw 0.26vw 2.6vw;
+    margin: 0.26vw 0 0.52vw 0;
+}
+
+nav ul {
+    list-style: none;
+    font-size: 125%;
+    margin-right: 3.9vw;
+}
+
+nav a {
+    display: block;
+    padding: 0.42vw;
+    margin: 0.26vw;
+    text-decoration: none;
+    color: var(--lightpurp);
+    border-bottom: 5px solid var(--lightpurp);
+}
+
+/*Main image*/
+
+.hero {
+    background-image: url("../images/flat-lay-cup-black-coffee-260nw-1283360350.jpg");
+    background-color: var(--offwhite);;
+    height: 20vw;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    position: relative;
+}
+
+.subtitle h3 {
+    background-color: var(--lightpurp);
+    padding: 1vw;
+    color: var(--grey);
+    font-size: 200%;
+    font-weight: bold;
+    display: inline-block;
+    position: absolute;
+    left: 10vw;
+    top: 10vw;
+} 
+
+/* Main Content */
+
+.heading h2 {
+    color: var(--darkpurp);
+    font-size: 300%;
+    margin: 2vw 0 1vw 0;
+    border-right: 5px solid var(--darkpurp);
+    padding-left: 6.25vw;
+}
+
+/*About me*/
+
+p {
+    color: var(--lightgrey);
+}
+
+ .aboutContent p {
+    margin: 2vw 3.9vw 0 2vw;
+    padding: 0.52vw 0 0.52vw 2vw;
+
+}
+
+#pic {
+    border-left: 5px solid var(--darkpurp);
+    padding: 0.52vw 0 0.52vw 2vw;
+    margin-left: -1.03vw;
+    margin-top: 2vw;
+}
+
+#profile {
+    width: 150%;
+    border: 5px solid var(--lightpurp);
+}
+
+/*Work*/
+
+#work h2 {
+    padding-left: 6.46vw;
+}
+
+.workContent {
+    border-left: 5px solid var(--darkpurp);
+    margin: 2vw 4vw 0 -1.03vw;
+    padding-bottom: 2vw;
+}
+
+#rowTwo, #rowThree {
+    margin-top: 3vw;
+    margin-left: 1vw;
+}
+
+.card {
+    height: 16vw;
+    width: 23vw;
+    background-color: var(--offwhite);;
+    position: relative;
+}
+
+.card img {
+    height: 10vw;
+    width: 22.9vw;
+    object-fit: cover;
+}
+
+.card:hover {
+    filter: saturate(200%);
+    transition: 0.5s;
+}
+
+.card-body {
+    background-color: var(--lightpurp);
+    position: relative;
+} 
+
+.card-body h3 {
+    font-size: 150%;
+    font-weight: bold;
+    color: var(--grey);
+}
+
+.btn {
+    position: absolute;
+    right: 2vw;
+    bottom: 1.5vw;
+}
+
+/*Contact Me*/
+
+#contactRow {
+    margin-top: 3vw;
+}
+
+#contact h2 {
+    padding-left: 3.6vw;
+}
+
+ .contactContent ul {
+    list-style: none;
+    font-size: 125%;
+    border-left: 5px solid var(--darkpurp);
+    margin-bottom: 3.64vw;
+    margin-left: -1.81vw;
+    padding-bottom: 0.5vw;
+    padding-left: 7.8vw;
+
+}
+
+.contactContent a {
+    display: block;
+    padding: 0.4vw;
+    margin: 2.6vw 2.6vw 0.26vw 2.6vw;
+    text-decoration: none;
+    color: var(--darkpurp);
+    border-bottom: 5px solid var(--darkpurp);
+} 
+
+@media screen and (max-width:992px) {
+    .subtitle h3 {
+        font-size: 150%;
+    } 
+
+    .heading h2 {
+        font-size: 250%;
+        margin: 2vw 0 0 0;
+        padding-left: 0;
+    }
+
+    .aboutContent p {
+        margin-left: -1vw;
+        font-size: 75%;
+    }
+
+    #pic {
+        margin-left: -2.1vw;
+    }
+
+    #profile {
+        width: 110%;
+    }
+
+    #work h2 {
+        padding-left: 0;
+    }
+
+    .workContent {
+        padding: 0;
+        margin: 5vw 7vw 0 -2.1vw;
+    }
+    
+    .card-body {
+        padding: 0.5vw;
+    }
+
+    h3.card-text {
+        font-size: 85%;
+        font-weight: bold;
+        color: var(--grey);
+    }
+
+    p.card-text {
+        font-size: 65%;
+    }
+    
+    .btn {
+        font-size: 60%;
+    }
+
+    #contact h2 {
+        font-size: 200%;
+        padding-left: 0;
+    }
+
+    .contactContent ul {
+        margin-left: -3.6vw;
+    
+    }
+}
+
+@media screen and (max-width:768px) {
+    nav h1 {
+        font-size: 200%;
+    }
+
+    nav ul {
+        font-size: 100%;
+    }
+
+    .subtitle h3 {
+        font-size: 100%;
+    } 
+
+    .heading h2 {
+        font-size: 200%;
+        border-right: 0;
+    }
+
+    .col {
+        padding-right: 0;
+    }
+
+    #pic {
+        border: 0;
+    }
+
+    .workContent {
+        border: 0;
+    }
+
+    #contact h2 {
+        padding-left: 0;
+    }
+
+    .contactContent ul {
+        border: 0;
+    
+    }
+}
+
+@media screen and (max-width:375px) {
+    .hero {
+        display: none;
+    }
+
+    .heading h2 {
+        font-size: 300%;
+        text-align: center;
+        border-bottom: 5px solid var(--darkpurp);
+    }
+
+    #pic {
+        margin: 2vw;
+    }
+
+    #profile {
+        width: 100%;
+    }
+
+    #rowTwo, #rowThree {
+        margin-top: 0;
+        margin-left: 0;
+    }
+
+    .card {
+        width: 100%;
+        height: 85%;
+        margin-bottom: 10vw;
+    }
+
+    .card img {
+        width: 100%;
+        height: 20vw;
+        object-fit: cover;
+    }
+
+    h3.card-text {
+        font-size: 125%;
+    }
+
+    p.card-text {
+        display: none;
+    }
+
+    .btn {
+        font-size: 100%;
+    }
+
+    .contactContent ul { 
+        text-align: center;
+    }
+
+    .contactContent li {
+        padding-left: 9.7vw; 
+        padding-right: 9.7vw;
+    }
+}
