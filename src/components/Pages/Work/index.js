@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import "./style.css";
-import Project from "../Project"
-import Row from "../Row"
-import Col from "../Col"
+import Project from "../../Project"
+import Row from "../../Row"
+import Col from "../../Col"
 import projects from "./project.json";
 
 class Work extends Component {
