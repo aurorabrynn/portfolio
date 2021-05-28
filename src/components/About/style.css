@@ -1,0 +1,29 @@
+p {
+    color: #6d6d80;
+}
+
+#aboutContent p {
+    margin: 2vw 3.9vw 0 2vw;
+    padding: 0.52vw 0 0.52vw 2vw;
+
+}
+
+#pic {
+    border-left: 5px solid #20012e;
+    padding: 0.52vw 0 0.52vw 2vw;
+    margin-left: -0.9vw;
+    margin-top: 2vw;
+}
+
+#profile {
+    width: 150%;
+    border: 5px solid #CCCCFF;
+}
+
+#about h2 {
+    color: #20012e;
+    font-size: 300%;
+    margin: 2vw 0 1vw 0;
+    border-right: 5px solid #20012e;
+    padding-left: 6.25vw;
+}

@@ -13,6 +13,11 @@ function App() {
     <Wrapper>
       <Header />
       <Hero />
+      <Container>
+        <About />
+        <Work />
+        <Contact />
+      </Container>
       <Footer />
     </Wrapper>
   );

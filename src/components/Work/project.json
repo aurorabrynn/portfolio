@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "link": "https://amandanguyenn.github.io/group-project-1/",
+      "image": "https://user-images.githubusercontent.com/70443846/119280920-5f438780-bbe8-11eb-8651-879100c087f6.PNG",
+      "title": "Paw Pair",
+      "type": "JavaScript/jQuery/Node",
+      "github": "https://github.com/AmandaNguyenn/PawPair"
+    },
+    {
+      "id": 2,
+      "link": "https://github.com/aurorabrynn/readme-generator",
+      "image": "https://user-images.githubusercontent.com/70443846/119280997-af224e80-bbe8-11eb-8bdd-aedc92d17d08.png",
+      "title": "README Generator",
+      "type": "Node",
+      "github": "https://github.com/aurorabrynn/readme-generator"
+    },
+    {
+      "id": 3,
+      "link": "https://subster.herokuapp.com/",
+     "image": "https://user-images.githubusercontent.com/70443846/119281025-d7aa4880-bbe8-11eb-85f5-acd69d0e1fe6.png",
+      "title": "Subster",
+      "type": "JavaScript/Express Session",
+      "github": "https://github.com/brooks-t/subscription-manager"
+    },
+    {
+      "id": 4,
+      "link": "#",
+      "image": "https://user-images.githubusercontent.com/70443846/119281048-f01a6300-bbe8-11eb-85fd-f601f51dc06c.jpg",
+      "title": "Example",
+      "type": "Example",
+      "github": "#"
+    },
+    {
+      "id": 5,
+      "link": "#",
+      "image": "https://user-images.githubusercontent.com/70443846/119281058-fad4f800-bbe8-11eb-9335-4453267db5ea.jpg",
+      "title": "Example",
+      "type": "Example",
+      "github": "#"
+    },
+    {
+      "id": 6,
+      "link": "#",
+      "image": "https://user-images.githubusercontent.com/70443846/119281075-0d4f3180-bbe9-11eb-844b-9400600b25fd.jpg",
+      "title": "Example",
+      "type": "Example",
+      "github": "#"
+    }
+]  

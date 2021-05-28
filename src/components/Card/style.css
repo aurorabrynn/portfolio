@@ -1,0 +1,34 @@
+.card {
+    height: 16vw;
+    width: 23vw;
+    background-color: #EDEDF6;
+    position: relative;
+}
+
+.card img {
+    height: 10vw;
+    width: 22.9vw;
+    object-fit: cover;
+}
+
+.card:hover {
+    filter: saturate(200%);
+    transition: 0.5s;
+}
+
+.card-body {
+    background-color: #CCCCFF;
+    position: relative;
+} 
+
+.card-body h3 {
+    font-size: 150%;
+    font-weight: bold;
+    color: #31343D;
+}
+
+.btn {
+    position: absolute;
+    right: 2vw;
+    bottom: 1.5vw;
+}

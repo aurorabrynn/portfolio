@@ -17,7 +17,7 @@ function Header() {
                     <li className="nav-item"><a className="nav-link" href="#about">About Me</a></li>
                     <li className="nav-item"><a className="nav-link" href="#work">Work</a></li>
                     <li className="nav-item"><a className="nav-link" href="#contact">Contact Me</a></li>
-                    <li className="nav-item"><a className="nav-link" href="#">Resume</a></li>
+                    <li className="nav-item"><a className="nav-link" href="https://github.com/aurorabrynn/portfolio/files/6563067/Aurora.Duncan.-.Resume.pdf">Resume</a></li>
                 </ul>
             </div>
         </Container>
