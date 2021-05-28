@@ -1,8 +1,8 @@
 #contact h2 {
-    color: #20012e;
+    color: #31343D;
+    background-color: #CCCCFF;
     font-size: 300%;
     margin: 2vw 0 1vw 0;
-    border-right: 5px solid #20012e;
     padding-left: 3.6vw;
 }
 
@@ -12,12 +12,13 @@ p {
 
 #contactRow {
     margin-top: 3vw;
+    background-color: #31343D;
+    width: 100%;
 }
 
  #contactContent ul {
     list-style: none;
     font-size: 125%;
-    border-left: 5px solid #20012e;
     margin-bottom: 3.64vw;
     margin-left: -1.51vw;
     padding-bottom: 0.5vw;
@@ -30,6 +31,6 @@ p {
     padding: 0.4vw;
     margin: 2.6vw 2.6vw 0.26vw 2.6vw;
     text-decoration: none;
-    color: #20012e;
-    border-bottom: 5px solid #20012e;
+    color: white;
+    border-bottom: 5px solid #CCCCFF;
 } 

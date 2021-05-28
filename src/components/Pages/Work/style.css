@@ -1,18 +1,18 @@
 #work h2 {
     color: #20012e;
     font-size: 300%;
-    margin: 2vw 0 1vw 0;
-    border-right: 5px solid #20012e;
-    padding-left: 6.46vw;
+    margin-top: 2vw;
+    border-bottom: 5px solid #20012e;
+    padding-left: 4vw;
 }
 
 #workContent {
     border-left: 5px solid #20012e;
-    margin: 2vw 4vw 0 -1.03vw;
+    margin-top: 2vw;
     padding-bottom: 2vw;
 }
 
 #workRow {
     margin-top: 3vw;
-    margin-left: 1vw;
+    margin-left: 4vw;
 }
