@@ -14,10 +14,10 @@ function Header(props) {
                 </button>
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav ml-auto">
-                        <li className="nav-item"><a className="nav-link" href="#about" onClick={() => props.handlePageChange("About")}
+                        <li className="nav-item"><a className="nav-link" onClick={() => props.handlePageChange("About")}
                             className={props.currentPage === "About" ? "nav-link active" : "nav-link"}>About Me</a></li>
-                        <li className="nav-item"><a className="nav-link" href="#work" onClick={() => props.handlePageChange("Work")}
-                            className={props.currentPage === "Work" ? "nav-link active" : "nav-link"}>Work</a></li>
+                        <li className="nav-item"><a className="nav-link" onClick={() => props.handlePageChange("Work")}
+                            className={props.currentPage === "Work" ? "nav-link active" : "nav-link"}>My Work</a></li>
                         <li className="nav-item"><a className="nav-link" href="#contact">Contact Me</a></li>
                         <li className="nav-item"><a className="nav-link" href="https://github.com/aurorabrynn/portfolio/files/6563067/Aurora.Duncan.-.Resume.pdf">Resume</a></li>
                     </ul>

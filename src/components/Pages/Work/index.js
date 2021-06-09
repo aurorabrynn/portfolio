@@ -11,7 +11,7 @@ class Work extends Component {
         return (
             <Row>
                 <Col size="sm-2" id="work">
-                    <h2>Work</h2>
+                    <h2>My Work</h2>
                 </Col>
                 <Col size="12" id="workContent">
                     <Row id="workRow">
