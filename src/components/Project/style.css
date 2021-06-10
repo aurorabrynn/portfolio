@@ -7,6 +7,7 @@ p {
     width: 23vw;
     background-color: #EDEDF6;
     position: relative;
+    margin-bottom: 2vw;
 }
 
 .card img {

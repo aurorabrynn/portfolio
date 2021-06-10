@@ -1,18 +1,18 @@
 [
     {
       "id": 1,
-      "link": "https://amandanguyenn.github.io/group-project-1/",
-      "image": "https://user-images.githubusercontent.com/70443846/119280920-5f438780-bbe8-11eb-8651-879100c087f6.PNG",
-      "title": "Paw Pair",
-      "type": "JavaScript/jQuery/Node",
-      "github": "https://github.com/AmandaNguyenn/PawPair"
+      "link": "https://ras-console-log.herokuapp.com/",
+      "image": "https://user-images.githubusercontent.com/70443846/121445531-815a3b00-c946-11eb-8eed-30d577131ff2.jpg",
+      "title": "Console Log",
+      "type": "MERN/Tailwind.css",
+      "github": "https://github.com/comatosino/Console-Log"
     },
     {
       "id": 2,
       "link": "https://github.com/aurorabrynn/readme-generator",
       "image": "https://user-images.githubusercontent.com/70443846/119280997-af224e80-bbe8-11eb-8bdd-aedc92d17d08.png",
       "title": "README Generator",
-      "type": "Node",
+      "type": "Node.js",
       "github": "https://github.com/aurorabrynn/readme-generator"
     },
     {
@@ -25,26 +25,26 @@
     },
     {
       "id": 4,
-      "link": "#",
-      "image": "https://user-images.githubusercontent.com/70443846/119281048-f01a6300-bbe8-11eb-85fd-f601f51dc06c.jpg",
-      "title": "Example",
-      "type": "Example",
-      "github": "#"
+      "link": "https://aurora-employee-directory.herokuapp.com/",
+      "image": "https://user-images.githubusercontent.com/70443846/121446030-87045080-c947-11eb-82e9-ce0bcb57f6cf.PNG",
+      "title": "Employee Directory",
+      "type": "React.js",
+      "github": "https://github.com/aurorabrynn/employee-directory"
     },
     {
       "id": 5,
-      "link": "#",
-      "image": "https://user-images.githubusercontent.com/70443846/119281058-fad4f800-bbe8-11eb-9335-4453267db5ea.jpg",
-      "title": "Example",
-      "type": "Example",
-      "github": "#"
+      "link": "https://aurora-fitness-tracker.herokuapp.com/?id=60a1598b44f4b900152340b2",
+      "image": "https://user-images.githubusercontent.com/70443846/121446399-42c58000-c948-11eb-9eaa-f7b188d5a72d.png",
+      "title": "Fitness Tracker",
+      "type": "MongoDB/NoSQL",
+      "github": "https://github.com/aurorabrynn/fitness-tracker"
     },
     {
       "id": 6,
-      "link": "#",
-      "image": "https://user-images.githubusercontent.com/70443846/119281075-0d4f3180-bbe9-11eb-844b-9400600b25fd.jpg",
-      "title": "Example",
-      "type": "Example",
-      "github": "#"
+      "link": "https://aurorabrynn.github.io/team-profile-generator/",
+      "image": "https://user-images.githubusercontent.com/70443846/121447177-ff6c1100-c949-11eb-98e6-445e9500d977.png",
+      "title": "Team Profile Generator",
+      "type": "JavaScript/Inquierer",
+      "github": "https://github.com/aurorabrynn/team-profile-generator"
     }
 ]  
