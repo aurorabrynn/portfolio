@@ -25,3 +25,9 @@ nav a {
     color: #CCCCFF;
     border-bottom: 5px solid #CCCCFF;
 }
+
+@media screen and (max-width: 1440px) {
+    nav ul {
+        margin-left: 34vw;
+    }
+}

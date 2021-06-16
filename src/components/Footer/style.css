@@ -34,3 +34,9 @@ p {
     color: white;
     border-bottom: 5px solid #CCCCFF;
 } 
+
+@media screen and (max-width: 1440px) {
+    #contact h2 {
+        padding-left: 1vw;
+    }
+}
