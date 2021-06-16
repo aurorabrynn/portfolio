@@ -38,6 +38,28 @@ p {
     bottom: 1.5vw;
 }
 
+@media screen and (max-width: 1440px) {
+    .card {
+        height: 16vw;
+        width: 23vw;
+        margin-top: 2vw;
+    }
+
+    .card img {
+        height: 8vw;
+        width: 22.9vw;
+        object-fit: cover;
+    }
+
+    h3.card-text {
+        font-size: 140%;
+    }
+
+    p.card-text {
+        font-size: 92%;
+    }
+}
+
 @media screen and (max-width:992px) {
     #work h2 {
         padding-left: 0;
