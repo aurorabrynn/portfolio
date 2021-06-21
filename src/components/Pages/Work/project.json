@@ -5,7 +5,8 @@
       "image": "https://user-images.githubusercontent.com/70443846/121445531-815a3b00-c946-11eb-8eed-30d577131ff2.jpg",
       "title": "Console Log",
       "type": "MERN/Tailwind.css",
-      "github": "https://github.com/comatosino/Console-Log"
+      "github": "https://github.com/comatosino/Console-Log",
+      "description": "Welcome! We created this app to be a hub for players to create, store, and link to guides and walkthroughs for their favorite video games. Utilizes a MERN stack (MongoDB, Express.js, React. js, and Node.js) along with Tailwind CSS for styling. Many thanks to RAWG Video Games Database API for game content!"
     },
     {
       "id": 2,
@@ -13,7 +14,8 @@
       "image": "https://user-images.githubusercontent.com/70443846/119280997-af224e80-bbe8-11eb-8bdd-aedc92d17d08.png",
       "title": "README Generator",
       "type": "Node.js",
-      "github": "https://github.com/aurorabrynn/readme-generator"
+      "github": "https://github.com/aurorabrynn/readme-generator",
+      "description": "READMEs are important because they can show users how to install and use the app before they download it. It can be used to decide whether they have the right specs on the computer and if the app is right for them. It also allows employers to know that you, their employee, knows what you are doing."
     },
     {
       "id": 3,
@@ -21,7 +23,8 @@
      "image": "https://user-images.githubusercontent.com/70443846/119281025-d7aa4880-bbe8-11eb-85f5-acd69d0e1fe6.png",
       "title": "Subster",
       "type": "JavaScript/Express Session",
-      "github": "https://github.com/brooks-t/subscription-manager"
+      "github": "https://github.com/brooks-t/subscription-manager",
+      "description": "Subster helps you manage your subscriptions. It allows you to add, edit, and track your subscriptions. Subster also allows you to track your subscription spending by category with our stat tracker. With the stat tracker you'll be able to see just how much your spending on Video streaming vs. Music streaming and so on. Subster also allows you to easily filter your subscriptions by cost so you can see which ones are costing you the most."
     },
     {
       "id": 4,
@@ -29,7 +32,8 @@
       "image": "https://user-images.githubusercontent.com/70443846/121446030-87045080-c947-11eb-82e9-ce0bcb57f6cf.PNG",
       "title": "Employee Directory",
       "type": "React.js",
-      "github": "https://github.com/aurorabrynn/employee-directory"
+      "github": "https://github.com/aurorabrynn/employee-directory",
+      "description": "Having a long list of your employees can be beneficial to employers, as you can very easily look up the employee you want to contact and get their email or their phone number. Sorting the employees by name alphabetically can make this process even easier!"
     },
     {
       "id": 5,
@@ -37,7 +41,8 @@
       "image": "https://user-images.githubusercontent.com/70443846/121446399-42c58000-c948-11eb-9eaa-f7b188d5a72d.png",
       "title": "Fitness Tracker",
       "type": "MongoDB/NoSQL",
-      "github": "https://github.com/aurorabrynn/fitness-tracker"
+      "github": "https://github.com/aurorabrynn/fitness-tracker",
+      "description": "No one has a perfect memory, and sometimes, it's difficult to remember what you did eariler in the week, or even eariler in the day. Did you do bench presses today? Or last week? Fitness trackers can help with these lapses in memory, and they can tell you just how much you've done in the day or week! You can use this information to decide what kinds of exercise you should do next!"
     },
     {
       "id": 6,
@@ -45,6 +50,7 @@
       "image": "https://user-images.githubusercontent.com/70443846/121447177-ff6c1100-c949-11eb-98e6-445e9500d977.png",
       "title": "Team Profile Generator",
       "type": "JavaScript/Inquierer",
-      "github": "https://github.com/aurorabrynn/team-profile-generator"
+      "github": "https://github.com/aurorabrynn/team-profile-generator",
+      "description": "When you're on a team (especially if it's a large group), it's important to know what roles everyone has, so that the manager doesn't give out tasks to the wrong people. Plus, if there's a problem, employees know who to talk to. Keeping this important info all in one, concise place keeps employees from getting confused."
     }
 ]  
