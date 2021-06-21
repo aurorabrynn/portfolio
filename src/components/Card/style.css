@@ -1,6 +1,4 @@
 .card {
-    height: 16vw;
-    width: 23vw;
     background-color: #EDEDF6;
     position: relative;
 }
@@ -30,5 +28,5 @@
 .btn {
     position: absolute;
     right: 2vw;
-    bottom: 1.5vw;
+    bottom: 1vw;
 }

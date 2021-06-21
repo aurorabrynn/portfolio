@@ -6,14 +6,14 @@ import Col from "../Col";
 function Project(props) {
     return (
         <Col size="12 sm-4">
-            <a href={props.link} target="_blank">
                 <Card
+                    link={props.link}
                     image={props.image}
                     title={props.title}
                     type={props.type}
                     github={props.github}
+                    description={props.description}
                 />
-            </a>
         </Col>
     )
 }
