@@ -17,7 +17,7 @@ nav ul {
     margin-left: 50vw;
 }
 
-nav a {
+.nav-link {
     display: block;
     padding: 0.42vw;
     margin: 0.26vw;
@@ -25,6 +25,10 @@ nav a {
     color: #CCCCFF;
     border-bottom: 5px solid #CCCCFF;
     cursor: pointer;
+}
+
+.nav-link:hover {
+    color: white;
 }
 
 @media screen and (max-width: 1440px) {

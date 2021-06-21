@@ -25,6 +25,7 @@ class Work extends Component {
                                     title={project.title}
                                     type={project.type}
                                     github={project.github}
+                                    description={project.description}
                                 />
                             ))
                         }

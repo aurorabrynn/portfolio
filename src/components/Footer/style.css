@@ -31,9 +31,13 @@ p {
     padding: 0.4vw;
     margin: 2.6vw 2.6vw 0.26vw 2.6vw;
     text-decoration: none;
-    color: white;
+    color: #CCCCFF;
     border-bottom: 5px solid #CCCCFF;
 } 
+
+#contactContent a:hover {
+    color: white;
+}
 
 @media screen and (max-width: 1440px) {
     #contact h2 {
