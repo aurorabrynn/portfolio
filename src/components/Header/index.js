@@ -19,7 +19,7 @@ function Header(props) {
                         <li className="nav-item"><a className="nav-link" onClick={() => props.handlePageChange("Work")}
                             className={props.currentPage === "Work" ? "nav-link active" : "nav-link"}>My Work</a></li>
                         <li className="nav-item"><a className="nav-link" href="#contact">Contact Me</a></li>
-                        <li className="nav-item"><a className="nav-link" href="https://github.com/aurorabrynn/portfolio/files/6759170/Aurora.Duncan.-.Resume.1.pdf">Resume</a></li>
+                        <li className="nav-item"><a className="nav-link" href="https://github.com/aurorabrynn/portfolio/files/6957873/Aurora.Duncan.-.Resume.1.pdf">Resume</a></li>
                     </ul>
                 </div>
             </Container>
